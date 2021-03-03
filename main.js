@@ -1,2 +1,4 @@
-#myname {
-    font-family: 'courgette', cursive;
+function setdate()
+{
+ document.getElementById('date').innerHTML = new Date().toDateString();
+}

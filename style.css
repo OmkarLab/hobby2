@@ -1,39 +1,20 @@
-body {
+body{
     text-align: center;
-    backround: linear-gradient (#E1BEE7 0%., #90CAFE9 100%);
-    backround ground: no-repeat;
+    background-color: #f0e8c5;
 }
 
-img {
-    border-radius: 200px;
-    width: 700px 
+div{
+   margin-top: 15px;
 }
 
-h1 {
-    text-shadow: 2px 2px #F8BBDO;
-    font-size: 20px;
+.image-section {
+display:inline-flex;
+justify-content: center;
 }
 
-p {
-    font-size: 18px;
+.section-style {
+margin-right: 25px;
+margin-left: 25px;
+background-color: aqua;
+ 
 }
-
-li {
-    display: inline;
-    padding: 3px;
-
-
-}
-
-.menu {
-    list-style: none;
-    font-family: cursive;
-    float: right;
-    top: 10px;
-    right:30px ;
-    cursor: pointer;
-    color: black;
-}
-
-
-
